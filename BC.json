@@ -1,6 +1,41 @@
 {
-  "name": "",
+  "first_name": "",
+  "last_name": "",
   "email": "",
-  "phone": "",
-  "address": ""
+  "date_of_birth": "",
+  "address": {
+    "street": "",
+    "city": "",
+    "state": "",
+    "postal_code": "",
+    "country": ""
+  },
+  "phone_number": "",
+  "photo_url": "",
+  "preferences": {
+    "language": [],
+    "timezone_gmt": ""
+  },
+  "social_media": {
+    "facebook": "",
+    "linkedin": "",
+    "x": "",
+    "instagram": "",
+    "medium": ""
+  },
+  "website": {
+    "personal_website": "",
+    "company_website": ""
+  },
+  "developer_profile": {
+    "github": "",
+    "stackoverflow": ""
+  },
+  "messengers" : {
+    "email": "",
+    "whatsapp": "",
+    "telegram": "",
+    "skype": "",
+    "discord": ""
+  }
 }
