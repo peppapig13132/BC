@@ -28,8 +28,24 @@
     "company_website": ""
   },
   "developer_profile": {
-    "github": "",
-    "stackoverflow": ""
+    "github": {
+      "profile_page": "",
+      "username": "",
+      "email": ""
+    },
+    "gitlab": {
+      "profile_page": "",
+      "username": "",
+      "email": ""
+    },
+    "bitbucket": {
+      "profile_page": "",
+      "username": "",
+      "email": ""
+    },
+    "stackoverflow": {
+      "profile_page": ""
+    }
   },
   "messengers" : {
     "email": "",
